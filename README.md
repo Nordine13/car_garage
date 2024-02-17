@@ -1,25 +1,25 @@
-# Car Garage Website
-Welcome to our Car Garage website! This platform serves as a hub for all car enthusiasts, offering a range of services related to car maintenance, repair, and customization. Whether you're a passionate car owner looking for top-notch service or a professional mechanic seeking a reliable workspace, our website has something for everyone.
+# Site Web de garage automobile
+Bienvenue sur notre site Garage Auto ! Cette plateforme sert de plaque tournante pour tous les passionnés d'automobile, offrant une gamme de services liés à l'entretien, à la réparation et à la personnalisation des voitures. Que vous soyez un propriétaire automobile passionné à la recherche d'un service de premier ordre ou un mécanicien professionnel à la recherche d'un espace de travail fiable, notre site Web a quelque chose pour tout le monde.
 
-Features
-1. Services
-Car Garage Provide Many Services on website to ensure customer satisfaction.
-2. View Unsold Cars
-Car Garage have Used cars on his website for the visitor. Visitor Can also view more detail and also filter the
-car by using the filters on website.
-4. Book An appoinments
-Visitor Can also book an appoinment by filling the form present on the index page of the website. 
-5. See Opening and closing time of the Shop
-Visitor can See opening and closing timing of the shop, at footer of the website.
-6. Admin:
-   Admin can login into the website by using following credientials:
-   Login: admin
-   Password: 123
-   Admin have different right like he can add services in the website which shows on the index page of the website
-   Admin can Change opening/closing time of the website
-   Admin can create Employee ID
-8. Employee:
-   Employee Can login into the website by using following crediential. Two Employee right now
-   Login: Semanche/employee
-   Password: 213 /213
-   Employee can Add cars/catogories in the website through his panel
+Caractéristiques
+1. Prestations
+Car Garage fournit de nombreux services sur le site Web pour assurer la satisfaction du client.
+2. Afficher les voitures invendues
+Car Garage a des voitures d'occasion sur son site Web pour le visiteur. Le visiteur peut également afficher plus de détails et filtrer les
+voiture en utilisant les filtres sur le site Web.
+4. Prendre rendez-vous
+Le visiteur peut également prendre rendez-vous en remplissant le formulaire présent sur la page d'index du site.
+5. Voir Horaires d'ouverture et de fermeture de la Boutique
+Le visiteur peut voir les horaires d'ouverture et de fermeture de la boutique, en bas de page du site Web.
+6. Administrateur :
+L'administrateur peut se connecter au site Web en utilisant les informations d'identification suivantes :
+Connexion : administrateur
+Mot de passe : 123
+L'administrateur a des droits différents, comme il peut ajouter des services sur le site Web, qui s'affichent sur la page d'index du site Web.
+L'administrateur peut modifier l'heure d'ouverture/fermeture du site Web
+L'administrateur peut créer un identifiant d'employé
+7. Employé :
+L'employé peut se connecter au site Web en utilisant les informations d'identification suivantes . Deux employés en ce moment
+Connexion : Semanche /employé
+Mot de passe : 213 /213
+L'employé peut ajouter des voitures/ catégories sur le site Web via son panneau
