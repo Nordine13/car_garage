@@ -1,0 +1,81 @@
+nav img{
+	width: 130px; 
+	height: 45px;
+
+}
+
+#home img{
+	border-radius: 25px;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+ 
+}
+#home h4{
+  padding-top: 8px;
+  
+}
+
+.text-block {
+  position: absolute;
+ top: 40%;
+  left: 5%;
+  background-color: #36454F;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.font h2{
+	font-weight: bold;
+	padding-right: 25px;
+	text-transform: uppercase;
+	text-align: center;
+
+}
+
+.card-img-top {
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .card:hover .card-img-top {
+            transform: scale(1.1);
+        }
+.hover-div {
+  position: relative;
+}
+
+.hover-div {
+            cursor: pointer;
+            text-decoration: none;
+            position: relative;
+            transition: color 0.3s ease-in-out;
+            padding-top:20px;
+        }
+
+        .hover-div:hover {
+            color: red; /* Change the color to your desired hover effect */
+        }
+
+        .hover-div:hover::after {
+            content: "";
+            position: absolute;
+            left: 0;
+            bottom: -2px;
+           
+            height: 2px;
+            background-color: red; /* Change the color to your desired underline color */
+        }
+
+#Section_image{
+  background-color: #f2f2f2;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .text-block {
+    display: none;
+  }
+}
+
